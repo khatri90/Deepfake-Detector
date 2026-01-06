@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"\\(Get-ChildItem ''C:\\\\Users\\\\PMLS\\\\Downloads\\\\Real Or AI image detection\\\\Human Faces\\\\Real Images\\\\*.jpg''\\).Count\")",
+      "Bash(powershell -Command \"\\(Get-ChildItem ''C:\\\\Users\\\\PMLS\\\\Downloads\\\\Real Or AI image detection\\\\Human Faces\\\\AI-Generated Images\\\\*.jpg''\\).Count\")",
+      "Bash(powershell:*)",
+      "Bash(python:*)",
+      "Bash(git init:*)",
+      "Bash(gh repo create:*)"
+    ]
+  }
+}

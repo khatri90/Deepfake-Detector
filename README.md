@@ -238,4 +238,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Disclaimer**: This tool is intended for research and educational purposes. Always respect privacy and legal considerations when analyzing facial images.
-"# Deepfake-Detector" 
