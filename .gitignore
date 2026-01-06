@@ -1,0 +1,71 @@
+# ============== DATA ==============
+# Exclude image datasets (download separately)
+Real Images/
+AI-Generated Images/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# ============== OUTPUT ==============
+output/
+models/
+logs/
+checkpoints/
+*.pth
+*.pt
+*.onnx
+
+# ============== PYTHON ==============
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ============== VIRTUAL ENV ==============
+venv/
+ENV/
+env/
+.venv/
+
+# ============== IDE ==============
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# ============== JUPYTER ==============
+.ipynb_checkpoints/
+*.ipynb
+
+# ============== OS ==============
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============== MISC ==============
+*.log
+*.tmp
+*.temp
+sample_batch.png
