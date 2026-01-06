@@ -1,21 +1,21 @@
 # ============== DATA ==============
 # Exclude image datasets (download separately)
-Real Images/
-AI-Generated Images/
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
+# Real Images/
+# AI-Generated Images/
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.bmp
 
 # ============== OUTPUT ==============
-output/
-models/
-logs/
-checkpoints/
-*.pth
-*.pt
-*.onnx
+# output/
+# models/
+# logs/
+# checkpoints/
+# *.pth
+# *.pt
+# *.onnx
 
 # ============== PYTHON ==============
 __pycache__/
